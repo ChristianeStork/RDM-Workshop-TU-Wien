@@ -1,10 +1,10 @@
 # RDM-Workshop-TU-Wien
 RDM Workshop at TU Wien
 
-Program draft
+Programme draft
 Please add ideas
 e-mail..
 phone...
 MIT License
 
-Project status: kick off phase
+Project status: pre kick off
